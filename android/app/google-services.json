@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318802157284",
+    "firebase_url": "https://bahcem-market.firebaseio.com",
+    "project_id": "bahcem-market",
+    "storage_bucket": "bahcem-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318802157284:android:d37c9f0ee01c57206396f1",
+        "android_client_info": {
+          "package_name": "com.bahcem.yonetici"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318802157284-36b9edofgt4496911oemcdimqs0ruq6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0i3hyHkvbkFyNKv7hahMDkwOVlTyqxcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318802157284-36b9edofgt4496911oemcdimqs0ruq6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
